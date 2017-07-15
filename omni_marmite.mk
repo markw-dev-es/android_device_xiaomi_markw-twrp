@@ -31,7 +31,7 @@ PRODUCT_PACKAGES += \
     charger
 
 PRODUCT_COPY_FILES += \
-    device/markw/kernel:kernel
+    $(DEVICE_PATH)/kernel:kernel
 
 PRODUCT_NAME := omni_markw
 PRODUCT_DEVICE := markw
