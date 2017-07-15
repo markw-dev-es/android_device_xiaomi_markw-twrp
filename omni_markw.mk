@@ -31,7 +31,7 @@ PRODUCT_PACKAGES += \
     charger
 
 PRODUCT_COPY_FILES += \
-    $(DEVICE_PATH)/kernel:kernel
+    device/xiaomi/markw/kernel:kernel
 
 PRODUCT_NAME := omni_markw
 PRODUCT_DEVICE := markw
