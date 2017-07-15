@@ -38,8 +38,3 @@ PRODUCT_DEVICE := markw
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 4
 PRODUCT_MANUFACTURER := Xiaomi
-
-# Kernel inline build
-#TARGET_KERNEL_CONFIG := markw_defconfig
-#TARGET_VARIANT_CONFIG := markw_defconfig
-#TARGET_SELINUX_CONFIG := markw_defconfig
